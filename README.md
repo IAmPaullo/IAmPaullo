@@ -3,7 +3,7 @@
 
 
 
-Meu nome é Paullo, Desenvolvedor Unity e entusiasta de todo tipo de tecnologia! 
+Meu nome é Paullo, formado em Jogos Digitais pela IFRJ e Desenvolvedor Unity, sou entusiasta de todo tipo de tecnologia! 
 
 - 🛠 Atualmente trabalho com:
  <div style="display: inline_block"><br>
