@@ -34,7 +34,7 @@ Meu nome é Paullo, formado em Jogos Digitais pela IFRJ e Desenvolvedor Unity, s
   
   <div> 
   
-  <a href="https://itch.io/IAmPaullo" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"
+  <a href="https://iampaullo.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"
   target="_blank"></a>
  	<a href="https://play.google.com/store/apps/developer?id=UnderDog" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/IAmPaullo#7147" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
