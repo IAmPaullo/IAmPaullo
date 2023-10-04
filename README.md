@@ -9,7 +9,6 @@ Meu nome é Paullo, formado em Jogos Digitais pela IFRJ e Desenvolvedor Unity, s
  <div style="display: inline_block"><br>
   <img align="center" alt="paullo_Unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
   <img align="center" alt="paullo_C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="paullo_JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="paullo_Shader" height="30" width="40" src= "https://img.shields.io/badge/-HLSL-blueviolet"/>
   
 </div>
