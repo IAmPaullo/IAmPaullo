@@ -3,9 +3,9 @@
 
 
 
-Meu nome é Paullo, formado em Jogos Digitais pela IFRJ e Desenvolvedor Unity, sou entusiasta de todo tipo de tecnologia! 
+My name is Paullo, I have a degree in Digital Games from Rio de Janeiro Federal Institute and I am a Unity Developer. I’m passionate about all kinds of technology! 
 
-- 🛠 Atualmente trabalho com:
+- 🛠 Currently working with:
  <div style="display: inline_block"><br>
   <img align="center" alt="paullo_Unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
   <img align="center" alt="paullo_C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
