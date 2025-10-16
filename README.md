@@ -1,9 +1,7 @@
 ### Hello there 👋
 
 
-
-
-My name is Paullo, I have a degree in Digital Games from Rio de Janeiro Federal Institute and I am a Unity Developer. I’m passionate about all kinds of technology! 
+I make Video Games 😎
 
 - 🛠 Currently working with:
  <div style="display: inline_block"><br>
