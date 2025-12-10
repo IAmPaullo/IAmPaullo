@@ -1,14 +1,18 @@
-### Hello there 👋
+### games games games games games
 
 
-I make Video Games 😎
-
-- 🛠 Currently working with:
- <div style="display: inline_block"><br>
-  <img align="center" alt="paullo_Unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
-  <img align="center" alt="paullo_C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="paullo_Shader" height="30" width="40" src= "https://img.shields.io/badge/-HLSL-blueviolet"/>
+<div align="center">
+  Play my latest games:
+  <br><br>
   
+  <a href="https://iampaullo.itch.io/ladybugricecake">
+    <img src="https://img.itch.zone/aW1nLzI0MTQ4ODM1LnBuZw==/315x250%23c/evBNgU.png" alt="this is NOT your first day">
+  </a>
+    &nbsp; &nbsp; 
+  
+  <a href="https://iampaullo.itch.io/apothecary">
+    <img src="https://img.itch.zone/aW1nLzIzNjk0MDQ1LnBuZw==/315x250%23c/tV434g.png" alt="Apothecary Mix and Match">
+  </a>
 </div>
 
 ##
@@ -19,8 +23,9 @@ I make Video Games 😎
 ##
 
 <div align="center">
-  <a href="https://github.com/iampaullo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmPaullo&layout=compact&langs_count=7&theme=monokai"/>
+  <a href="https://iampaullo.com">
+  <img height="100em" src="https://static.wixstatic.com/media/480461_1041294402a3493d887cf27b38ce3485~mv2.png/v1/fill/w_148,h_120,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IamPaullo_Icone_Positivo%20FB.png"/>
+   
 </div>
 
   
@@ -28,7 +33,7 @@ I make Video Games 😎
   
   ##
   
-  <div> 
+  <div align="center"> 
   
   <a href="https://iampaullo.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"
   target="_blank"></a>
